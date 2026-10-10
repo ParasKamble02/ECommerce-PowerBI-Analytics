@@ -3,13 +3,11 @@
 
 
 ###### **Project Overview**
-
 An interactive Power BI dashboard built to analyze e-commerce sales, profit, product performance, customer behavior, and regional trends using the Sample Superstore dataset.
 
 
 
 ###### **Tools \& Technologies**
-
 * Microsoft Power BI
 * Power Query for data cleaning and transformation
 * DAX for measures and time-based calculations
@@ -22,7 +20,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 1\. Executive Dashboard
-
 * Total Sales, Total Profit, Total Orders, and Profit Margin
 * Sales and profit trends
 * Sales by category and region
@@ -31,7 +28,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 2\. Product Analysis
-
 * Sales and profit by category and sub-category
 * Top 10 and bottom 10 products
 * Product performance table
@@ -40,7 +36,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 3\. Customer \& Regional Analysis
-
 * Sales and profit by region
 * Customer performance
 * Top 10 customers
@@ -49,7 +44,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 4\. Time \& Profitability
-
 * Monthly sales and profit trends
 * Yearly and quarterly sales comparisons
 * Profit margin analysis
@@ -58,7 +52,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 5\. Product Details
-
 * Product-level sales, profit, and quantity
 * Monthly sales and profit trends
 * Conditional formatting for profitability
@@ -67,7 +60,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 ###### 
 
 ###### **Key Performance Indicators**
-
 * Total Sales
 * Total Profit
 * Total Orders
@@ -79,7 +71,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 ###### **Data Preparation \& Modeling**
-
 * Cleaned and checked the source data using Power Query.
 * Applied appropriate data types to columns.
 * Created a dedicated DateTable.
@@ -89,7 +80,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 ###### **Interactive Features**
-
 * Year, category, region, segment, and quarter slicers
 * Report page navigation
 * Product-level drill-through
@@ -99,7 +89,6 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 ###### **Project Structure**
-
 * "Dataset/" — Source Excel dataset
 * "PowerBI/" — Power BI report file
 * "Screenshots/" — Dashboard screenshots
@@ -109,12 +98,10 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 
 
 ###### **Purpose**
-
 This project demonstrates practical skills in data cleaning, data modeling, DAX, interactive reporting, and business intelligence using Power BI.
 
 
 
 ###### **Note**
-
 This project uses sample Superstore data for educational and portfolio purposes.
 
