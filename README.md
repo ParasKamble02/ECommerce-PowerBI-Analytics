@@ -101,6 +101,22 @@ An interactive Power BI dashboard built to analyze e-commerce sales, profit, pro
 This project demonstrates practical skills in data cleaning, data modeling, DAX, interactive reporting, and business intelligence using Power BI.
 
 
+###### **Dashboard Preview**
+1\. Executive Dashboard
+![Executive Dashboard](Screenshots/01_Executive_Dashboard.png)
+
+2\. Product Analysis
+![Product Analysis](Screenshots/02_Product_Analysis.png)
+
+3\. Customer \& Regional Analysis
+![Customer and Regional Analysis](Screenshots/03_Customer_Regional_Analysis.png)
+
+4\. Time \& Profitability
+![Time & Profitability](Screenshots/04_Time_Profitability.png)
+
+5\. Product Details
+![Product Details](Screenshots/05_Product_Details.png)
+
 
 ###### **Note**
 This project uses sample Superstore data for educational and portfolio purposes.
